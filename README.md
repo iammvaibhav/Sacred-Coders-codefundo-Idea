@@ -1,2 +1,12 @@
-# Sacred-Coders-codefundo-Idea
+# Sacred Coders codefundo++ Idea
 Idea Submission for codefundo++ by Team Sacred Coders
+
+## Using Blockchain to manage resources during Natural Disasters
+
+The main concern during management of a Natural Disaster is obtaining resources and then to actually utilize them. Even when governmental and non-governmental organizations are swift to react when disaster strikes, humanitarian efforts are often harmed by a lack of transparency among different relief providers. People are concerned about donating as they doubt if the money is going into the right hands and actually being utilized. This is all due to lack of authenticity and disbelief in the supply chain. Even when resources are available, there is currently no swift and reliable option to make the other parties aware of what is needed. Establishing a shared system of record can advance disaster response while also addressing challenges such as ownership of the system and data sovereignty of all involved.
+
+Problems to be addressed are numerous. For an example, A service provider agrees to supply required material to a shelter and fails to do so after accepting the funds from the Government but he claims to have used it for the expected set of activities as he has updated his enterprise solution/database with those details. Or a Government official claims to have released funds to service providers and residents (by adding money to their mobile wallets), but it has not reached the concerned parties. Duration to settle payments from Government to service providers is time-consuming, since the list of settlements is long and needs to be verified.
+
+We propose a blockchain solution as a platform to address the above issues for crystal clear transparency and increased trust for the betterment of management in Natural Disasters.
+
+During natural disasters, blockchain can bring life-saving transparency to humanitarian relief missions. Blockchain’s trusted, decentralized transparency across numerous parties – government officials, community organizers, vendors, utilities, healthcare providers – makes it perfectly suited to help align citizen demands for relief with the most readily available supplies. Blockchain also boasts the advantage of not being controlled by a single entity, thereby removing any concerns about accountability and disclosure. When natural disasters strike, blockchain can make sure that competing players cooperate with one another in sharing resources and assets rather than acting capitalistically. This transparency eliminates price gouging and rewards those who operate ethically.
